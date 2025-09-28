@@ -47,9 +47,10 @@ ul.menu{
    .active{ >.items{
          display: block;
          text-align: center;
-         padding: 4px;
+         padding:4px;
          height: auto;
          color:#9f9e93;
+         padding-left:0;
          clear: both;
          float: left;
          width: 100%;
