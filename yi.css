@@ -34,7 +34,7 @@ ul.menu{
       
       a{ text-decoration: none;
          color: #eceade;
-         padding: 5px 0px 4px 9px;
+         padding:6px;
          display: block;
         text-align: center; 
          &:hover{ background-color: #b2b1a8; color: #f1f0e5; }}
@@ -97,7 +97,7 @@ p {margin: 0px 3px 2px 0px; font-family: Arial, Helvetica, sans-serif; text-alig
 a { text-decoration: none; color: #878678;}
 
 
-@media screen and (max-width:490px){#gallery{padding-bottom: 26px;}.belgi>img{min-width:48%;}.kөrme{min-width:100%; float:right;}img,video{min-width:97%;}.kөrme2>div>img,video{width:98%;}.kөrme2{min-width:100%;}}
+@media screen and (max-width:490px){#gallery{;}.belgi>img{min-width:48%;}.kөrme{min-width:100%; float:right;}img,video{min-width:97%;}.kөrme2>div>img,video{width:98%;}.kөrme2{min-width:100%;}}
 @media screen and (max-width:790px){.kөrme{min-width:100%; float:right;}img,video{min-width:97%;}.kөrme2>a>img,video{width:98%;}.kөrme2{min-width:100%;}}
 @media screen and (max-width:990px){.kөrme{min-width:50%; float:right;}img,video{min-width:97%;}.kөrme2>a>img,video{width:98%;}.kөrme2{min-width:100%;}}
 @media screen and (max-width:1190px){.kөrme{min-width:100%; float:right;}.kөrme2>a>img,video{width:99%;}.kөrme2{width:50%;float:right;margin:auto;}}
@@ -131,6 +131,3 @@ img,video{width:49%;padding:0px;margin:0px;}
   color:#9f9e93;}
 .items{
   padding:0;}
-
-.formFooter, .formFooter-wrapper {
-  display:none;}
