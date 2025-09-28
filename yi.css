@@ -50,10 +50,9 @@ ul.menu{
          padding:4px 0px 4px 0px;
          height: auto;
          color:#9f9e93;
-         padding-left:0;
-         clear: both;
-         float: left;
-         width: 100%;
+         clear:both;
+         float:left;
+         width:100%;
          li{ padding:0px; border-bottom:1px solid #324252; list-style: none; }
          li:last-child{ border-color:transparent; padding-bottom: 0px; }
          .active{ > .items{ background-color: #2f4b67; }}
