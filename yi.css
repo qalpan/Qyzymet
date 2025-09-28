@@ -46,8 +46,8 @@ ul.menu{
       &:last-child{ border-bottom:none;} }
    .active{ >.items{
          display: block;
-       text-align: center;
-         padding: 9px 0 0px 0px;
+         text-align: center;
+         padding: 4px;
          height: auto;
          color:#9f9e93;
          clear: both;
