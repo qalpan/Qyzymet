@@ -5051,16 +5051,10 @@ body:has(.wfFormHeader) {
   background-color:#0075e3;
   border-color:#0075e3
 }
-.branding21.formFooter.isAccessible .formFooter-button:hover {
-  background-color:#0066c6;
-  border-color:#0066c6
-}
-body {
-  font-family:Inter,sans-serif;
-  font-size:16px;
-  background-color:;
-  color:#2c3345
-}
+.branding21.formFooter.isAccessible .formFooter-button:hover{background-color:#0066c6;border-color:#0066c6}
+
+body{font-family:Inter,sans-serif;font-size:16px;background-color:;color:#2c3345;margin:6px;}
+
 .form-all {
   border-radius:3px;
   box-shadow:0 4px 4px rgba(87,100,126,.21);
